@@ -2,3 +2,4 @@
 echo "Hello, World!"
 echo "This is docker test"
 
+again docker ps -adocker ps -adocker ps -adocker ps -adocker ps -aclear
